@@ -1,0 +1,54 @@
+2024-06-28 10:19:01,130 : INFO : uvicorn.error : Started server process [30632]
+2024-06-28 10:19:01,130 : INFO : uvicorn.error : Started server process [30632]
+2024-06-28 10:19:01,130 : INFO : uvicorn.error : Started server process [30632]
+2024-06-28 10:19:01,131 : INFO : uvicorn.error : Waiting for application startup.
+2024-06-28 10:19:01,131 : INFO : uvicorn.error : Waiting for application startup.
+2024-06-28 10:19:01,131 : INFO : uvicorn.error : Waiting for application startup.
+2024-06-28 10:19:01,131 : INFO : uvicorn.error : Application startup complete.
+2024-06-28 10:19:01,131 : INFO : uvicorn.error : Application startup complete.
+2024-06-28 10:19:01,131 : INFO : uvicorn.error : Application startup complete.
+2024-06-28 10:19:33,343 : INFO : uvicorn : Batch Executed successfully at:2024-06-28 10:19:32.747248
+2024-06-28 10:19:33,343 : INFO : uvicorn : Batch Executed successfully at:2024-06-28 10:19:32.747248
+2024-06-28 10:19:33,343 : INFO : uvicorn : Batch Executed successfully at:2024-06-28 10:19:32.747248
+2024-06-28 10:20:19,982 : INFO : uvicorn.error : Shutting down
+2024-06-28 10:20:19,982 : INFO : uvicorn.error : Shutting down
+2024-06-28 10:20:19,982 : INFO : uvicorn.error : Shutting down
+2024-06-28 10:20:20,092 : INFO : uvicorn.error : Waiting for application shutdown.
+2024-06-28 10:20:20,092 : INFO : uvicorn.error : Waiting for application shutdown.
+2024-06-28 10:20:20,092 : INFO : uvicorn.error : Waiting for application shutdown.
+2024-06-28 10:20:20,094 : INFO : uvicorn.error : Application shutdown complete.
+2024-06-28 10:20:20,094 : INFO : uvicorn.error : Application shutdown complete.
+2024-06-28 10:20:20,094 : INFO : uvicorn.error : Application shutdown complete.
+2024-06-28 10:20:20,095 : INFO : uvicorn.error : Finished server process [30632]
+2024-06-28 10:20:20,095 : INFO : uvicorn.error : Finished server process [30632]
+2024-06-28 10:20:20,095 : INFO : uvicorn.error : Finished server process [30632]
+2024-06-28 10:20:21,144 : INFO : uvicorn.error : Started server process [23052]
+2024-06-28 10:20:21,144 : INFO : uvicorn.error : Started server process [23052]
+2024-06-28 10:20:21,144 : INFO : uvicorn.error : Started server process [23052]
+2024-06-28 10:20:21,145 : INFO : uvicorn.error : Waiting for application startup.
+2024-06-28 10:20:21,145 : INFO : uvicorn.error : Waiting for application startup.
+2024-06-28 10:20:21,145 : INFO : uvicorn.error : Waiting for application startup.
+2024-06-28 10:20:21,146 : INFO : uvicorn.error : Application startup complete.
+2024-06-28 10:20:21,146 : INFO : uvicorn.error : Application startup complete.
+2024-06-28 10:20:21,146 : INFO : uvicorn.error : Application startup complete.
+2024-06-28 10:20:35,089 : INFO : uvicorn.error : Shutting down
+2024-06-28 10:20:35,089 : INFO : uvicorn.error : Shutting down
+2024-06-28 10:20:35,089 : INFO : uvicorn.error : Shutting down
+2024-06-28 10:20:35,199 : INFO : uvicorn.error : Waiting for application shutdown.
+2024-06-28 10:20:35,199 : INFO : uvicorn.error : Waiting for application shutdown.
+2024-06-28 10:20:35,199 : INFO : uvicorn.error : Waiting for application shutdown.
+2024-06-28 10:20:35,205 : INFO : uvicorn.error : Application shutdown complete.
+2024-06-28 10:20:35,205 : INFO : uvicorn.error : Application shutdown complete.
+2024-06-28 10:20:35,205 : INFO : uvicorn.error : Application shutdown complete.
+2024-06-28 10:20:35,220 : INFO : uvicorn.error : Finished server process [23052]
+2024-06-28 10:20:35,220 : INFO : uvicorn.error : Finished server process [23052]
+2024-06-28 10:20:35,220 : INFO : uvicorn.error : Finished server process [23052]
+2024-06-28 10:20:36,275 : INFO : uvicorn.error : Started server process [29812]
+2024-06-28 10:20:36,275 : INFO : uvicorn.error : Started server process [29812]
+2024-06-28 10:20:36,275 : INFO : uvicorn.error : Started server process [29812]
+2024-06-28 10:20:36,275 : INFO : uvicorn.error : Waiting for application startup.
+2024-06-28 10:20:36,275 : INFO : uvicorn.error : Waiting for application startup.
+2024-06-28 10:20:36,275 : INFO : uvicorn.error : Waiting for application startup.
+2024-06-28 10:20:36,276 : INFO : uvicorn.error : Application startup complete.
+2024-06-28 10:20:36,276 : INFO : uvicorn.error : Application startup complete.
+2024-06-28 10:20:36,276 : INFO : uvicorn.error : Application startup complete.
